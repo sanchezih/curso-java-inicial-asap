@@ -13,6 +13,12 @@ import ar.edu.ort.p1.util.Consola;
 public class Ejercicio01 {
 	public static void main(String[] args) {
 
+		int numero = Consola.leerEntero("Ingrese un numero entero: ");
 
+		if (numero % 2 == 0 || numero % 3 == 0) {
+			System.out.println("Es multiplo de 2 o de 3");
+		} else {
+			System.out.println("No es multiplo de 2 o de 3");
+		}
 	}
 }
