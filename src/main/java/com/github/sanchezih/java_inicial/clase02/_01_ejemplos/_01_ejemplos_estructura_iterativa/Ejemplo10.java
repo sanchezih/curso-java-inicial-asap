@@ -1,6 +1,6 @@
 package com.github.sanchezih.java_inicial.clase02._01_ejemplos._01_ejemplos_estructura_iterativa;
 
-import ar.edu.ort.p1.util.Consola;
+import com.github.sanchezih.util.io.Consola;
 
 /**
  * Programa que pide dos numeros enteros A y B por teclado y muestra los numeros

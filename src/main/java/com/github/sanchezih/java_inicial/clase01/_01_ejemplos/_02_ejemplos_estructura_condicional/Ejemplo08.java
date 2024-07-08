@@ -1,6 +1,6 @@
 package com.github.sanchezih.java_inicial.clase01._01_ejemplos._02_ejemplos_estructura_condicional;
 
-import ar.edu.ort.p1.util.Consola;
+import com.github.sanchezih.util.io.Consola;
 
 /**
  * Programa que lee por teclado 3 numeros enteros, calcula el mayor de los 3 y

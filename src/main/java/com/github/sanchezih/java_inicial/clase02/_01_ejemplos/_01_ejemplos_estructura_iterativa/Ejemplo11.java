@@ -1,6 +1,6 @@
 package com.github.sanchezih.java_inicial.clase02._01_ejemplos._01_ejemplos_estructura_iterativa;
 
-import ar.edu.ort.p1.util.Consola;
+import com.github.sanchezih.util.io.Consola;
 
 /**
  * Programa que lee 2 numeros enteros positivos N y M y muestra los multiplos de

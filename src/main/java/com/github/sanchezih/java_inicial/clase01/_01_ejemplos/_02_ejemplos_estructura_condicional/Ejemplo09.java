@@ -2,7 +2,7 @@ package com.github.sanchezih.java_inicial.clase01._01_ejemplos._02_ejemplos_estr
 
 import java.io.IOException;
 
-import ar.edu.ort.p1.util.Consola;
+import com.github.sanchezih.util.io.Consola;
 
 /**
  * Programa que lee un caracter por teclado y comprueba si es un digito numerico

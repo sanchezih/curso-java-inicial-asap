@@ -1,6 +1,6 @@
 package com.github.sanchezih.java_inicial.clase02._01_ejemplos._01_ejemplos_estructura_iterativa;
 
-import ar.edu.ort.p1.util.Consola;
+import com.github.sanchezih.util.io.Consola;
 
 /**
  * Se considera que un numero es narcisista si la suma de sus cifras elevadas al

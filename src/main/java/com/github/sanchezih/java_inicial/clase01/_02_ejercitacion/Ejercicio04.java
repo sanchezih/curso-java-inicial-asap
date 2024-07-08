@@ -1,6 +1,6 @@
 package com.github.sanchezih.java_inicial.clase01._02_ejercitacion;
 
-import ar.edu.ort.p1.util.Consola;
+import com.github.sanchezih.util.io.Consola;
 
 /**
  * Programa que comprueba si un anio es bisiesto. Un anio es bisiesto si es
