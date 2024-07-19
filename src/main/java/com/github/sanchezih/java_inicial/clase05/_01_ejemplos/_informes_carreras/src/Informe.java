@@ -1,6 +1,5 @@
 package com.github.sanchezih.java_inicial.clase05._01_ejemplos._informes_carreras.src;
 
-
 import java.util.ArrayList;
 import java.util.List;
 

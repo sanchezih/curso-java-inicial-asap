@@ -1,6 +1,5 @@
 package com.github.sanchezih.java_inicial.clase05._01_ejemplos._informes_carreras.src;
 
-
 public class Main {
 
 	public static void main(String[] args) {
@@ -31,14 +30,14 @@ public class Main {
 		analistaDeSistemas.agregarAlumno(luis);
 		analistaDeSistemas.agregarAlumno(facundo);
 
-		// Creo ORT
-		Instituto ort = new Instituto();
-		ort.agregarCarrera(analistaDeSistemas);
-		ort.agregarCarrera(biotecnologia);
+		// Creo Instituto
+		Instituto instituto = new Instituto();
+		instituto.agregarCarrera(analistaDeSistemas);
+		instituto.agregarCarrera(biotecnologia);
 
 		/*----------------------------------------------------------------------------*/
 
-		// Test ejercicio B
+		// Test ejercicio
 		analistaDeSistemas.mostrarInformeMaxMaterias();
 
 	}

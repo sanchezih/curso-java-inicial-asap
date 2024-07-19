@@ -4,7 +4,7 @@ import com.github.sanchezih.util.ds.UtilArrays;
 
 public class Historial {
 
-	private final static int CANT_MESES = 12;
+	private static final int CANT_MESES = 12;
 	private double[] gastosMensuales = new double[CANT_MESES];
 
 	/*----------------------------------------------------------------------------*/

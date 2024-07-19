@@ -2,7 +2,7 @@ package com.github.sanchezih.java_inicial.clase03._01_ejemplos._01_arrays._02_ej
 
 public class Empresa {
 
-	private final static int CANT_EMPLEADOS = 8;
+	private static final int CANT_EMPLEADOS = 8;
 
 	private Vendedor[] vendedores = new Vendedor[CANT_EMPLEADOS];
 
