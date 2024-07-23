@@ -2,9 +2,9 @@
 <class-diagram version="1.2.4" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
   associations="true" dependencies="false" nesting-relationships="true" router="FAN">  
   <class id="1" language="java" 
-    name="com.github.sanchezih.java_inicial.clase05._01_ejemplos._informes_carreras.src.Materia" 
+    name="com.github.sanchezih.java_inicial.clase05._01_ejemplos.informes_carreras.src.Materia" 
     project="curso-java-inicial-asap-private" 
-    file="/curso-java-inicial-asap-private/src/main/java/com/github/sanchezih/java_inicial/clase05/_01_ejemplos/_informes_carreras/src/Materia.java" 
+    file="/curso-java-inicial-asap-private/src/main/java/com/github/sanchezih/java_inicial/clase05/_01_ejemplos/informes_carreras/src/Materia.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="135" width="344" x="530" y="786"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -14,9 +14,9 @@
     </display>  
   </class>  
   <class id="2" language="java" 
-    name="com.github.sanchezih.java_inicial.clase05._01_ejemplos._informes_carreras.src.Informe" 
+    name="com.github.sanchezih.java_inicial.clase05._01_ejemplos.informes_carreras.src.Informe" 
     project="curso-java-inicial-asap-private" 
-    file="/curso-java-inicial-asap-private/src/main/java/com/github/sanchezih/java_inicial/clase05/_01_ejemplos/_informes_carreras/src/Informe.java" 
+    file="/curso-java-inicial-asap-private/src/main/java/com/github/sanchezih/java_inicial/clase05/_01_ejemplos/informes_carreras/src/Informe.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="135" width="344" x="146" y="189"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -26,9 +26,9 @@
     </display>  
   </class>  
   <class id="3" language="java" 
-    name="com.github.sanchezih.java_inicial.clase05._01_ejemplos._informes_carreras.src.Alumno" 
+    name="com.github.sanchezih.java_inicial.clase05._01_ejemplos.informes_carreras.src.Alumno" 
     project="curso-java-inicial-asap-private" 
-    file="/curso-java-inicial-asap-private/src/main/java/com/github/sanchezih/java_inicial/clase05/_01_ejemplos/_informes_carreras/src/Alumno.java" 
+    file="/curso-java-inicial-asap-private/src/main/java/com/github/sanchezih/java_inicial/clase05/_01_ejemplos/informes_carreras/src/Alumno.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="189" width="344" x="530" y="557"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -38,9 +38,9 @@
     </display>  
   </class>  
   <enumeration id="4" language="java" 
-    name="com.github.sanchezih.java_inicial.clase05._01_ejemplos._informes_carreras.src.Estado" 
+    name="com.github.sanchezih.java_inicial.clase05._01_ejemplos.informes_carreras.src.Estado" 
     project="curso-java-inicial-asap-private" 
-    file="/curso-java-inicial-asap-private/src/main/java/com/github/sanchezih/java_inicial/clase05/_01_ejemplos/_informes_carreras/src/Estado.java" 
+    file="/curso-java-inicial-asap-private/src/main/java/com/github/sanchezih/java_inicial/clase05/_01_ejemplos/informes_carreras/src/Estado.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="135" width="344" x="530" y="961"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -50,9 +50,9 @@
     </display>  
   </enumeration>  
   <class id="5" language="java" 
-    name="com.github.sanchezih.java_inicial.clase05._01_ejemplos._informes_carreras.src.Instituto" 
+    name="com.github.sanchezih.java_inicial.clase05._01_ejemplos.informes_carreras.src.Instituto" 
     project="curso-java-inicial-asap-private" 
-    file="/curso-java-inicial-asap-private/src/main/java/com/github/sanchezih/java_inicial/clase05/_01_ejemplos/_informes_carreras/src/Instituto.java" 
+    file="/curso-java-inicial-asap-private/src/main/java/com/github/sanchezih/java_inicial/clase05/_01_ejemplos/informes_carreras/src/Instituto.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="99" width="344" x="530" y="189"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -62,9 +62,9 @@
     </display>  
   </class>  
   <class id="6" language="java" 
-    name="com.github.sanchezih.java_inicial.clase05._01_ejemplos._informes_carreras.src.AlumnoSimplificado" 
+    name="com.github.sanchezih.java_inicial.clase05._01_ejemplos.informes_carreras.src.AlumnoSimplificado" 
     project="curso-java-inicial-asap-private" 
-    file="/curso-java-inicial-asap-private/src/main/java/com/github/sanchezih/java_inicial/clase05/_01_ejemplos/_informes_carreras/src/AlumnoSimplificado.java" 
+    file="/curso-java-inicial-asap-private/src/main/java/com/github/sanchezih/java_inicial/clase05/_01_ejemplos/informes_carreras/src/AlumnoSimplificado.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="135" width="344" x="146" y="364"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -74,9 +74,9 @@
     </display>  
   </class>  
   <class id="7" language="java" 
-    name="com.github.sanchezih.java_inicial.clase05._01_ejemplos._informes_carreras.src.Carrera" 
+    name="com.github.sanchezih.java_inicial.clase05._01_ejemplos.informes_carreras.src.Carrera" 
     project="curso-java-inicial-asap-private" 
-    file="/curso-java-inicial-asap-private/src/main/java/com/github/sanchezih/java_inicial/clase05/_01_ejemplos/_informes_carreras/src/Carrera.java" 
+    file="/curso-java-inicial-asap-private/src/main/java/com/github/sanchezih/java_inicial/clase05/_01_ejemplos/informes_carreras/src/Carrera.java" 
     binary="false" corner="BOTTOM_RIGHT">    
     <position height="153" width="344" x="530" y="364"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
@@ -86,41 +86,61 @@
     </display>  
   </class>  
   <association id="8">    
-    <end type="SOURCE" refId="7" navigable="false">      
-      <attribute id="9" name="alumnos"/>      
-      <multiplicity id="10" minimum="0" maximum="2147483647"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="9" name="alumnos">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="10" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
-    <end type="TARGET" refId="3" navigable="true"/>    
+    <end type="TARGET" refId="6" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
   <association id="11">    
     <end type="SOURCE" refId="1" navigable="false">      
-      <attribute id="12" name="estado"/>      
-      <multiplicity id="13" minimum="0" maximum="1"/>    
+      <attribute id="12" name="estado">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="13" minimum="0" maximum="1">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
     <end type="TARGET" refId="4" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
   <association id="14">    
-    <end type="SOURCE" refId="2" navigable="false">      
-      <attribute id="15" name="alumnos"/>      
-      <multiplicity id="16" minimum="0" maximum="2147483647"/>    
-    </end>    
-    <end type="TARGET" refId="6" navigable="true"/>    
-    <display labels="true" multiplicity="true"/>  
-  </association>  
-  <association id="17">    
     <end type="SOURCE" refId="3" navigable="false">      
-      <attribute id="18" name="materias"/>      
-      <multiplicity id="19" minimum="0" maximum="2147483647"/>    
+      <attribute id="15" name="materias">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="16" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
     <end type="TARGET" refId="1" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
   </association>  
+  <association id="17">    
+    <end type="SOURCE" refId="7" navigable="false">      
+      <attribute id="18" name="alumnos">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="19" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
   <association id="20">    
     <end type="SOURCE" refId="5" navigable="false">      
-      <attribute id="21" name="carreras"/>      
-      <multiplicity id="22" minimum="0" maximum="2147483647"/>    
+      <attribute id="21" name="carreras">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </attribute>      
+      <multiplicity id="22" minimum="0" maximum="2147483647">        
+        <position height="0" width="0" x="0" y="0"/>      
+      </multiplicity>    
     </end>    
     <end type="TARGET" refId="7" navigable="true"/>    
     <display labels="true" multiplicity="true"/>  
