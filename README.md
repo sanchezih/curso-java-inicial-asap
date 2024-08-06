@@ -1,2 +1,1 @@
-# curso-java-inicial-asap-private
-
+# curso-java-inicial-asap
